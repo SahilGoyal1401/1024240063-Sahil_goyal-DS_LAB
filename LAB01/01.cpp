@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int arr[100], n = 0; // global array and size
+int arr[100], n = 0; 
 
 void createArray() {
     cout << "Enter number of elements: ";
